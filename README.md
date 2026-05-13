@@ -1,2 +1,2 @@
 # devOps_CICD
-hi
+a simple project initialization
